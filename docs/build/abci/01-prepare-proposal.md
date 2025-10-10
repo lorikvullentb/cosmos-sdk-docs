@@ -43,5 +43,3 @@ prepareOpt := func(app *baseapp.BaseApp) {
 
 baseAppOptions = append(baseAppOptions, prepareOpt)
 ```
-
-<!-- Auto-update: 2025-10-10T14:24:19.540877 -->
