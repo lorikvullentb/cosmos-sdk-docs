@@ -111,5 +111,3 @@ A reference to the github actions can be found [here](https://github.com/cosmos/
 ```go reference
 https://github.com/cosmos/cosmos-sdk/blob/main/.github/workflows/proto.yml#L1-L32
 ```
-
-<!-- Auto-update: 2025-10-11T09:15:43.074979 -->
